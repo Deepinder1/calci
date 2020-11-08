@@ -1,7 +1,6 @@
 # calci
 
-A new Flutter project.
-
+A Flutter project juct simple code for calculator
 ## Getting Started
 
 This project is a starting point for a Flutter application.
